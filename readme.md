@@ -1,5 +1,7 @@
-Laravel based GPS tracking system:
+# Laravel based GPS tracking system:
 
-https://bus.adameastwood.com/login
-user: a@a.com
-pass: DSVVMMwpn3VmLNR
+```bash
+URL:    https://bus.adameastwood.com/login
+user:   a@a.com
+pass:   DSVVMMwpn3VmLNR
+```
