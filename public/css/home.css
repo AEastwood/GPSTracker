@@ -1,0 +1,44 @@
+a {
+    color: #212529;
+}
+
+a:visited {
+    color: #212529;
+}
+
+.homeButton :hover {
+    cursor: pointer;
+    color: rgb(0, 195, 255);
+    text-decoration: none;
+}
+
+.homeGrid {
+    width: 900px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+}
+
+.title :hover {
+    text-decoration: none;
+    cursor: context-menu;
+}
+
+.navbarAppMenu {
+    z-index: 999;
+}
+
+.navbarMapTools {
+    z-index: 999;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
